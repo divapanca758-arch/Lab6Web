@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+  background-color: #f4f6f9;
+  color: #333;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.highlight {
+  color: #173f75;
+  background-color: #e6f1ff;
+  border-left: 4px solid #3478c8;
+  padding: 12px;
+}
+
+.teks-besar {
+  font-size: 1.4rem;
+}
+
+.selesai span {
+  text-decoration: line-through;
+  color: #687386;
+}
+
+li {
+  margin-bottom: 8px;
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+  padding: 6px 12px;
+  margin-right: 5px;
+}
+
+.info-text {
+  font-size: 0.9rem;
+  color: #555;
+  font-style: italic;
+}
+
+.sukses {
+  color: green;
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
